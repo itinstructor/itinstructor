@@ -1,4 +1,4 @@
-### Hi Everyone! 👋
+### I am a Computer Science instructor at Western Nebraska Community College 👋
 
 <!--
 **itinstructor/itinstructor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
