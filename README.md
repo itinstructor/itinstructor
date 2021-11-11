@@ -1,10 +1,11 @@
 ### I am a Computer Science instructor at Western Nebraska Community College 👋
 - 🔭 I’m currently working on GoPiG3, Python, C++, Visual C#, and Java.
+https://camo.githubusercontent.com/2a6b8d4f8f21e5e95a8440c8043785d627dbd6d74444cac371c8dc4b281e345c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d77696c6c69616d666f726265736a72266c61796f75743d636f6d70616374267468656d653d726561637426686964655f626f726465723d74727565
 <!--
 **itinstructor/itinstructor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-https://camo.githubusercontent.com/2a6b8d4f8f21e5e95a8440c8043785d627dbd6d74444cac371c8dc4b281e345c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d77696c6c69616d666f726265736a72266c61796f75743d636f6d70616374267468656d653d726561637426686964655f626f726465723d74727565
+
 
 - 🌱 I’m currently learning all of the above.
 - 👯 I’m looking to collaborate on ...
