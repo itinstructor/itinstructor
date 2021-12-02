@@ -1,5 +1,5 @@
 ### I am a Computer Science instructor at Western Nebraska Community College 👋
-- 🔭 I’m currently working on projects with GoPiGo3, Raspberry Pi, Python, C++, Visual C#, Unity and Java.
+- 🔭 I’m currently working on projects with GoPiGo3, Raspberry Pi, Grove Sensors, Python, C++, Visual C#, Unity and Java.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itinstructor&layout=compact&hide=Batchfile&theme=maroongold)](https://github.com/anuraghazra/github-readme-stats)
