@@ -1,6 +1,8 @@
 ### I am a Computer Science instructor at Western Nebraska Community College 👋
 - 🔭 I’m currently working on projects with GoPiGo3, Raspberry Pi, Grove Sensors, Arduino, Python, C++, Unreal, Visual C#, Unity and Java.
 
+“If you think it's simple, then you have misunderstood the problem.” — Bjarne Stroustrup, Creator of C++
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itinstructor&layout=compact&hide=Batchfile&theme=maroongold)](https://github.com/anuraghazra/github-readme-stats)
 
