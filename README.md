@@ -1,5 +1,5 @@
 ### I am a Computer Science instructor at [Western Nebraska Community College](https://www.wncc.edu) 👋
-- 🔭 I’m currently working on projects with GoPiGo3, Raspberry Pi, Grove Sensors, Arduino, Python, Google Colab, C++, Visual C#, Unity and Java.
+🔭 I’m currently working on projects with GoPiGo3, Raspberry Pi, Grove Sensors, Arduino, Python, Google Colab, C++, Visual C#, Unity and Java.
 
 “If you think it's simple, then you have misunderstood the problem.” — Bjarne Stroustrup, Creator of C++
 
