@@ -3,7 +3,9 @@
 
 “If you think it's simple, then you have misunderstood the problem.” — Bjarne Stroustrup, Creator of C++
 
-- ⚡ Fun fact: I used to play trumpet in a polka band.
+⚡ Fun fact: I used to play trumpet and sang in a polka band.
+
+📫 How to reach me: (https://www.linkedin.com/in/williamaloring/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itinstructor&layout=compact&hide=Batchfile&theme=maroongold)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -16,6 +18,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 -->
