@@ -3,7 +3,7 @@
 
 “If you think it's simple, then you have misunderstood the problem.” — Bjarne Stroustrup, Creator of C++
 
-⚡ Fun fact: I used to play trumpet and sang in a polka band.
+⚡ Fun fact: I used to play trumpet and sang in a polka band. :guitar:
 
 📫 How to reach me: (https://www.linkedin.com/in/williamaloring/)
 
