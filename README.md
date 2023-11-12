@@ -9,10 +9,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itinstructor&layout=compact&hide=Batchfile&theme=maroongold)](https://github.com/anuraghazra/github-readme-stats)
 
-## My Projects
-
-- [MineField Tutorial](https://github.com/itinstructor/MineFieldTutorialJava): A project I wrote in Java in 2010.
-
 <!--
 **itinstructor/itinstructor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
