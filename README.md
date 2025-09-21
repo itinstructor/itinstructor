@@ -1,4 +1,4 @@
-### I am a Computer Science instructor at [Western Nebraska Community College](https://www.wncc.edu) 👋
+## I am a Computer Science instructor at [Western Nebraska Community College](https://www.wncc.edu) 👋
 
 🔭 I’m currently working on projects with GoPiGo3, Raspberry Pi, Grove Sensors, Arduino, Python, Google Colab, C++, Visual C#, Unity and Java.
 
@@ -11,7 +11,11 @@
 - Facebook: [Facebook WNCC IT Program](https://www.facebook.com/wnccitprogram/)
 - YouTube: [YouTube WINCC IT Program](https://www.youtube.com/@wnccitprogram)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itinstructor&layout=compact&hide=Batchfile&theme=maroongold)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itinstructor&layout=compact&hide=Batchfile&theme=maroongold)](https://github.com/anuraghazra/github-readme-stats) -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itinstructor&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itinstructor&show_icons=true&theme=radical)
 
 <!--
 **itinstructor/itinstructor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
